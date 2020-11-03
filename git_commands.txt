@@ -10,3 +10,5 @@ git push -u origin main
 git remote add origin https://github.com/tahame01/Important-commands.git
 git branch -M main
 git push -u origin main               
+
+To avoid login informations
