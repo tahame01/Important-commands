@@ -1,4 +1,4 @@
-Starting from the local computer
+Starting from the local computer------------------
 
 echo "# Important-commands" >> README.md
 git init
@@ -9,11 +9,15 @@ git remote add origin https://github.com/tahame01/Important-commands.git
 git push -u origin main
                 
 
-Starting from the repository
+Starting from the repository------
 
 git remote add origin https://github.com/tahame01/Important-commands.git
 git branch -M main
 git push -u origin main               
 
-To avoid login informations
+To avoid login informations-----------
 git config --global credential.helper cache
+
+
+git status
+git add filename
