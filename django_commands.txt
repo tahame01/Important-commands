@@ -1,0 +1,2 @@
+commands for requirements.txt and we need include gunicorn and nginx for server
+pip install -r requirements.txt
