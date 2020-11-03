@@ -1,3 +1,5 @@
+Starting from the local computer
+
 echo "# Important-commands" >> README.md
 git init
 git add README.md
@@ -6,6 +8,8 @@ git branch -M main
 git remote add origin https://github.com/tahame01/Important-commands.git
 git push -u origin main
                 
+
+Starting from the repository
 
 git remote add origin https://github.com/tahame01/Important-commands.git
 git branch -M main
