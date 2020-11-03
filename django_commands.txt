@@ -7,3 +7,12 @@ So basically after installing necessary packajes we have add those in requiremne
 
 pip freeze > requirements.txt ------- mac/linux
 pip freeze >> requirements.txt ----- windows
+
+After installing git we need to configure email and username
+
+git config --global user.email ''
+git config user.name ''
+
+Now most importantly after setting up to stop login credential ----------------
+
+git config credential.helper cache
