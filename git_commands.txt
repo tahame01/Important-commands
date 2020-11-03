@@ -16,3 +16,4 @@ git branch -M main
 git push -u origin main               
 
 To avoid login informations
+git config --global credential.helper cache
