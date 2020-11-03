@@ -20,6 +20,9 @@ git clone
 git add <filename>
 git reset
 
+-------------------------------------------------------
+git add --all
+git add *.html
 
 
 After installing git we need to configure email and username
