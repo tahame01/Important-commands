@@ -15,10 +15,18 @@ git remote add origin https://github.com/tahame01/Important-commands.git
 git branch -M main
 git push -u origin main               
 
-To avoid login informations-----------
-git config --global credential.helper cache
-
-
 git status
-git add filename
+git clone
+git add <filename>
 git reset
+
+
+
+After installing git we need to configure email and username
+
+git config --global user.email ''
+git config user.name ''
+
+Now most importantly after setting up to stop login credential ----------------
+
+git config credential.helper cache
