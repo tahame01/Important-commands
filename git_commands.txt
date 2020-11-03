@@ -21,3 +21,4 @@ git config --global credential.helper cache
 
 git status
 git add filename
+git reset
