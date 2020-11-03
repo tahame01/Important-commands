@@ -2,3 +2,8 @@ commands for requirements.txt and we need include gunicorn and nginx for server
 gunicorn pcycopg2-binary-------------
 
 pip install -r requirements.txt
+
+So basically after installing necessary packajes we have add those in requiremnets.txt---
+
+pip freeze > requirements.txt ------- mac/linux
+pip freeze >> requirements.txt ----- windows
