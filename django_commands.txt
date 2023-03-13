@@ -7,4 +7,4 @@ So basically after installing necessary packajes we have add those in requiremne
 
 pip freeze > requirements.txt ------- mac/linux
 pip freeze >> requirements.txt ----- windows
-
+------------------------------------------------------------------------------------------------------
