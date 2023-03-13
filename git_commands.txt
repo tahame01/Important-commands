@@ -33,3 +33,5 @@ git config user.name ''
 Now most importantly after setting up to stop login credential ----------------
 
 git config credential.helper cache
+
+-----------------------------------------------------------------------------
